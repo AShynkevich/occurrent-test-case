@@ -1,5 +1,13 @@
 ## Step 1
-Start mongo db
+Start your mongo db instance
+
+OR
+
+run 
+
+```shell
+docker-compose -f docker-compose.yml up -d
+```
 
 ## Step 2
 Start application
